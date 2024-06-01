@@ -23,6 +23,7 @@ file_type_paths = {
     '.jpg': picture_path,
     '.jpeg': picture_path,
     '.png': picture_path,
+    '.lnk': exe_path
 }
 
 
